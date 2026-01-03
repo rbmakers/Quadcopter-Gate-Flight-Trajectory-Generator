@@ -2,6 +2,10 @@
 
 A physics-based simulation system for generating and visualizing smooth reference trajectories for quadcopters flying through FPV-style gates. This system supports multiple gate layouts, path planning strategies, and control algorithms with real-time 3D visualization.
 
+
+https://github.com/user-attachments/assets/5936938b-f715-467f-b37b-a1117731c563
+
+
 ## Features
 
 ### 🎯 Gate Generation
